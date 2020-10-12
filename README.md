@@ -20,3 +20,6 @@ Class representing a hand.  It has two main properties: the hand's value and a l
   
   show_hand(self): Display the cards currently in the hand and the value of the cards</br>  
   take_card(self, deck): Remove a card from the deck, add it to the hand, and update the hand's value.  A deck object must be initialized and passed to this method as an argument.  
+
+TO-DO:
+Finish building the main game file, edit this readme to include other details about program and make the intenral links actually work right.
